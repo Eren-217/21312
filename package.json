@@ -1,0 +1,18 @@
+{
+  "name": "sesbot",
+  "author": "Tantoony",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4"
+  },
+  "description": "**EVET! FOR DÖNGÜSÜ!** * Eminim ki bu tarzda başka bir projeye rastlamamışsınızdır :) * Tokenleri for döngsüne sokarak belirttiğiniz kanalda üyeleri karşılayın!",
+  "version": "1.0.0",
+  "main": "ses.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ses.js"
+  },
+  "license": "ISC"
+}
+  
